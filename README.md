@@ -83,16 +83,6 @@ Cloud & DevOps      ████████████████░░░░
 |---------|-------------|------|--------|
 | **OSINT Threat Intel Platform** | Automated OSINT reconnaissance and threat intelligence aggregation platform with risk scoring and report generation | Python, Flask, Docker, Azure | 🟡 In Progress |
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prateek-sh-ctrl&show_icons=true&theme=default&hide_border=true&icon_color=0A66C2&title_color=24292f&text_color=57606a" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prateek-sh-ctrl&theme=default&hide_border=true" width="48%" />
-
-</div>
 
 ---
 
